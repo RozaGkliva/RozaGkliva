@@ -35,13 +35,13 @@ My personal projects are in this profile. Work projects are in the [Centre for B
 
 
 
-
+<!--
 ### ⚙️ GitHub statistics:
 <div class="badges-githubstats">
   <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=rozagkliva&theme=tokyonight&hide_border=true" alt="Roza's Github stats" height="165"/>
     <img alt="Roza's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rozagkliva&theme=tokyonight&hide_border=true" height="165"/>
   </p>
-</div>
+</div>-->
 
 
